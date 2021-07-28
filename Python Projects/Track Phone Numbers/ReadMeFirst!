@@ -1,0 +1,4 @@
+ The python code for this project will only run without error if you fill in the phone number you are trying to track 
+within the test.py file. 
+
+ex)   number= "Insert the country code and phone number you are trying to track (no dashes, all in one)"
