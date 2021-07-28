@@ -4,5 +4,4 @@
 ex) number= "Insert the country code and phone number you are trying to track (no dashes, all in one)"
 
 -Make sure to run this command in your code editors terminal:
-
-[![Screenshot-2021-07-27-20-54-54.png](https://i.postimg.cc/J0KH6wnd/Screenshot-2021-07-27-20-54-54.png)](https://postimg.cc/n9jLrPqv)
+pip install phonenumbers
