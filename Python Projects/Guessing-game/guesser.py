@@ -7,4 +7,4 @@ while True:
    if n == v:
       print('You win!')
       break
-   print('Smaller if (n < v) else 'Bigger')
+   print('Smaller' if (n < v) else 'Bigger')
